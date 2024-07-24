@@ -31,9 +31,9 @@ header{
    background-color: black;
    /* padding-top: 90px;*/
    /* margin-top: 80px;  */
-
-
-
+}
+header a {
+    text-decoration: none;
 }
 ul{
     list-style: none; 
